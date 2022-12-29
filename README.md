@@ -1,7 +1,5 @@
 <h1>Active Directory Project</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 In this project I demonstrate how to create an Active Directory Environment using Oracle Virtual Box. Configuring and running this project will definitlry help develop an understanding of how active directory and windows networking works.
 <br />
