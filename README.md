@@ -1,5 +1,5 @@
 <h1>Active Directory Project</h1>
-
+<img src="https://imgur.com/kAZkmfy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <h2>Description</h2>
 In this project I demonstrate how to create an Active Directory Environment using Oracle Virtual Box. Configuring and running this project will definitlry help develop an understanding of how active directory and windows networking works.
 <br />
@@ -39,7 +39,7 @@ Wait for process to complete (may take some time):  <br/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WO3XErP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
